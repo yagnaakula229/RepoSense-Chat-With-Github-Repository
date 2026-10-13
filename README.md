@@ -1,6 +1,8 @@
 # RepoSense AI – Chat with Any GitHub Repository
 
 A full-stack project for ingesting GitHub repositories and querying them through a Retrieval-Augmented Generation (RAG) pipeline.
+# Archtecture
+![Architecture Diagram]()
 
 ## Backend
 
