@@ -2,7 +2,7 @@
 
 A full-stack project for ingesting GitHub repositories and querying them through a Retrieval-Augmented Generation (RAG) pipeline.
 # Archtecture
-![Architecture Diagram]()
+![Architecture Diagram](https://github.com/yagnaakula229/RepoSense-Chat-With-Github-Repository/blob/main/reposence%20ai.png)
 
 ## Backend
 
